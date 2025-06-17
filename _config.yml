@@ -3,3 +3,9 @@ description: Take your time, slow down and enjoy the view.
 author: Will Covington
 theme: jekyll-theme-minimal  # Built-in GitHub Pages theme
 show_downloads: false
+
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
