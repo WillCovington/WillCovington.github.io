@@ -1,3 +1,1 @@
-# Will Covington's Technical Portfolio
-
-Howdy! 
+Howdy!
