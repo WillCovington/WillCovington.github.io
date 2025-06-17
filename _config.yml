@@ -1,5 +1,5 @@
 title: Technical Portfolio
 description: A portfolio and blog built with GitHub Pages
 author: Your Name
-theme: jekyll-theme-cayman  # Built-in GitHub Pages theme
+theme: jekyll-theme-minimal  # Built-in GitHub Pages theme
 show_downloads: false
