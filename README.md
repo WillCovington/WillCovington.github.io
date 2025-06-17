@@ -1,2 +1,3 @@
-﻿# WillCovington.github.io
-# Testing Testing Testing
+# Will Covington's Technical Portfolio
+
+Howdy! 
