@@ -1,0 +1,14 @@
+title: "Will Covington's Technical Portfolio"
+description: Take your time, slow down and enjoy the view.
+author: Will Covington
+theme: jekyll-theme-minimal  # Built-in GitHub Pages theme
+show_downloads: false
+
+github:
+  is_project_page: false
+
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
