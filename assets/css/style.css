@@ -86,7 +86,7 @@
   padding: 11px 35px;
   background: #2E2E2E;
   color: #7D0A0A;
-  border: 2px solid #fff;
+  border: 2px solid #2E2E2E;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #BF3131 repeat;
+  background: #FF737E repeat;
   position: relative;
 }
 
